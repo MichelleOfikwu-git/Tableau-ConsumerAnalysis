@@ -47,9 +47,9 @@ This Tableau dashboard provides an in-depth analysis of sales and profitability 
 - Expand dashboard to include customer segmentation and churn risk  
 
 ## 🖼️ Dashboard Preview
-
-(Latin_American_Dashboard.png)
+![Latin American Dashboard](https://github.com/MichelleOfikwu-git/Tableau-ConsumerAnalysis/blob/main/Latin_American_Dashboard.png?raw=true)(Latin_American_Dashboard.png)
 
 ## 📬 Contact
 For collaboration, feedback, or demo requests, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/michelle-ofikwu/).
+
 
