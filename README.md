@@ -56,13 +56,9 @@ sales and profitability  - Add interactive filters for deeper temporal
 and regional analysis  - Expand dashboard to include customer
 segmentation and churn risk
 
-\## 📎 Deliverables - Interactive Tableau dashboard (link or embed
-placeholder)  - Summary report with key findings and recommendations  -
-Optional downloadable PDF case study
-
-\## 🖼️ Dashboard Preview \![Latin American
-Dashboard\](Latin_American_Dashboard.png)
+\## 🖼️ Dashboard Preview \!## 🖼️ Dashboard Preview
+![Latin American Dashboard](https://github.com/MichelleOfikwu-git/Tableau-ConsumerAnalysis/blob/main/Latin_American_Dashboard.png?raw=true)(Latin_American_Dashboard.png)
 
 \## 📬 Contact For collaboration, feedback, or demo requests, feel free
 to reach out via
-\[LinkedIn\](https://www.linkedin.com/in/michelle-ofikwu/).
+\[LinkedIn\](https://www.linkedin.com/in/michelle-ofikwu/)
