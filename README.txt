@@ -46,13 +46,10 @@ This Tableau dashboard provides an in-depth analysis of sales and profitability 
 - Add interactive filters for deeper temporal and regional analysis  
 - Expand dashboard to include customer segmentation and churn risk  
 
-## 📎 Deliverables
-- Interactive Tableau dashboard (link or embed placeholder)  
-- Summary report with key findings and recommendations  
-- Optional downloadable PDF case study  
-
 ## 🖼️ Dashboard Preview
-![Latin American Dashboard](Latin_American_Dashboard.png)
+
+(Latin_American_Dashboard.png)
 
 ## 📬 Contact
 For collaboration, feedback, or demo requests, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/michelle-ofikwu/).
+
